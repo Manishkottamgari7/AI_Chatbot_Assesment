@@ -165,5 +165,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/ai-fashion-stylist](https://github.com/yourusername/ai-fashion-stylist)
+Your Name - kottamgari.m@northeastern.edu
+Project Link: [https://github.com/Manishkottamgari7/AI_Chatbot_Assesment]
